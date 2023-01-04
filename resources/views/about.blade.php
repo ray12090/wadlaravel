@@ -1,5 +1,5 @@
 @extends('master')
-@section('title', 'about-kiostani')
+@section('title', 'KiosTani - About Us')
 @section('content')
 <!-- Page Header Start -->
 <div class="container-fluid page-header mb-5 wow fadeIn" data-wow-delay="0.1s">
@@ -7,8 +7,7 @@
         <h1 class="display-3 mb-3 animated slideInDown">About Us</h1>
         <nav aria-label="breadcrumb animated slideInDown">
             <ol class="breadcrumb mb-0">
-                <li class="breadcrumb-item"><a class="text-body" href="#">Home</a></li>
-                <li class="breadcrumb-item"><a class="text-body" href="#">Pages</a></li>
+                <li class="breadcrumb-item"><a class="text-body" href="/">Home</a></li>
                 <li class="breadcrumb-item text-dark active" aria-current="page">About Us</li>
             </ol>
         </nav>
@@ -23,7 +22,7 @@
         <div class="row g-5 align-items-center">
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                 <div class="about-img position-relative overflow-hidden p-5 pe-0">
-                    <img class="img-fluid w-100" src="img/about.jpg">
+                    <img class="img-fluid w-100" src="foto/tani.jpg">
                 </div>
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">

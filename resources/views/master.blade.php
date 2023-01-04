@@ -72,7 +72,7 @@
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Login</a>
                         <div class="dropdown-menu m-0">
                             <a href="#" class="dropdown-item">Supplier</a>
-                            <a href="#" class="dropdown-item">Customer</a>
+                            <a href="/login" class="dropdown-item">Customer</a>
                         </div>
                     </div>
                 </div>
@@ -83,7 +83,7 @@
                     <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
                         <small class="fa fa-user text-body"></small>
                     </a>
-                    <a class="btn-sm-square bg-white rounded-circle ms-3" href="">
+                    <a class="btn-sm-square bg-white rounded-circle ms-3" href="/cart">
                         <small class="fa fa-shopping-bag text-body"></small>
                     </a>
                 </div>
@@ -147,13 +147,8 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>carousel
     <!-- Footer End -->
-
-
-    <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
-
 
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
