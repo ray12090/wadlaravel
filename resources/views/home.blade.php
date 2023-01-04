@@ -12,7 +12,7 @@
                             <div class="row justify-content-start">
                                 <div class="col-lg-7">
                                     <h1 class="display-2 mb-5 animated slideInDown" style="color: aliceblue;">Organic Vedgetable Is Good For Health</h1>
-                                    <a href="" class="btn btn-primary rounded-pill py-sm-3 px-sm-5">Products</a>
+                                    <a href="/product" class="btn btn-primary rounded-pill py-sm-3 px-sm-5">Products</a>
                                     <a href="" class="btn btn-secondary rounded-pill py-sm-3 px-sm-5 ms-3">Services</a>
                                 </div>
                             </div>
@@ -21,12 +21,12 @@
                 </div>
                 <div class="carousel-item">
                     <img class="w-100" src="foto/sayur.png" alt="Image">
-                    <div class="carousel-caption">
+                    <div class="carousel-caption"></div>
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-7">
                                     <h1 class="display-2 mb-5 animated slideInDown" style="color: aliceblue;">Organic Fruits Is Always Healthy</h1>
-                                    <a href="" class="btn btn-primary rounded-pill py-sm-3 px-sm-5">Products</a>
+                                    <a href="/product" class="btn btn-primary rounded-pill py-sm-3 px-sm-5">Products</a>
                                     <a href="" class="btn btn-secondary rounded-pill py-sm-3 px-sm-5 ms-3">Services</a>
                                 </div>
                             </div>
@@ -300,7 +300,7 @@
                             </div>
                         </div>
                         <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.1s">
-                            <a class="btn btn-primary rounded-pill py-3 px-5" href="">Browse More Products</a>
+                            <a class="btn btn-primary rounded-pill py-3 px-5" href="/product">Browse More Products</a>
                         </div>
                     </div>
                 </div>
